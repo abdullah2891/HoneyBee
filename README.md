@@ -1,4 +1,4 @@
- oneyBee
+HoneyBee
 
 Example Rule:
 
@@ -30,3 +30,4 @@ Example Rule:
 	]
 
 }
+```
